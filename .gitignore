@@ -1,0 +1,15 @@
+.env
+media
+.venv
+db.sqlite3
+logs
+nginx
+
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*/__pycache__
+apps/__pycache__
+apps/*/__pycache__
