@@ -4,6 +4,7 @@ media
 db.sqlite3
 logs
 nginx
+.vscode
 
 
 __pycache__/
